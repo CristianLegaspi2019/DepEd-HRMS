@@ -1,0 +1,8 @@
+C:\Users\Nezty\OneDrive\Desktop\System Projects\DepEd Human Resource Mngt Info System\DepEd Human Resource Mngt Info System\bin\Debug\DepEd Human Resource Mngt Info System.exe
+C:\Users\Nezty\OneDrive\Desktop\System Projects\DepEd Human Resource Mngt Info System\DepEd Human Resource Mngt Info System\bin\Debug\DepEd Human Resource Mngt Info System.pdb
+C:\Users\Nezty\OneDrive\Desktop\System Projects\DepEd Human Resource Mngt Info System\DepEd Human Resource Mngt Info System\obj\x86\Debug\DepEd_Human_Resource_Mngt_Info_System.Form1.resources
+C:\Users\Nezty\OneDrive\Desktop\System Projects\DepEd Human Resource Mngt Info System\DepEd Human Resource Mngt Info System\obj\x86\Debug\DepEd_Human_Resource_Mngt_Info_System.Properties.Resources.resources
+C:\Users\Nezty\OneDrive\Desktop\System Projects\DepEd Human Resource Mngt Info System\DepEd Human Resource Mngt Info System\obj\x86\Debug\DepEd Human Resource Mngt Info System.csproj.GenerateResource.Cache
+C:\Users\Nezty\OneDrive\Desktop\System Projects\DepEd Human Resource Mngt Info System\DepEd Human Resource Mngt Info System\obj\x86\Debug\DepEd Human Resource Mngt Info System.exe
+C:\Users\Nezty\OneDrive\Desktop\System Projects\DepEd Human Resource Mngt Info System\DepEd Human Resource Mngt Info System\obj\x86\Debug\DepEd Human Resource Mngt Info System.pdb
+C:\Users\Nezty\OneDrive\Desktop\System Projects\DepEd Human Resource Mngt Info System\DepEd Human Resource Mngt Info System\bin\Debug\DepEd Human Resource Mngt Info System.exe.config
